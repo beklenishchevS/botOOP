@@ -1,0 +1,122 @@
+{"gameRequests":9,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 3","stats":"Requests(BullCows): 9 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":0,"is_started":false,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 0 start at:null\n","task":[6,2,5,3],"type":"BullsCows"}
+t
+{"gameRequests":1,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 1","stats":"Requests(BullCows): 1 start at:Tue Dec 03 19:41:21 YEKT 2019\n","task":[6,2,5,3],"timeOfStart":"Tue Dec 03 19:41:21 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":2,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 1","stats":"Requests(BullCows): 2 start at:Tue Dec 03 19:41:21 YEKT 2019\n","task":[6,2,5,3],"timeOfStart":"Tue Dec 03 19:41:21 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":7,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 7 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":8,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 3","stats":"Requests(BullCows): 8 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":9,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 3","stats":"Requests(BullCows): 9 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":3,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 3 start at:Tue Dec 03 19:41:21 YEKT 2019\n","task":[6,2,5,3],"timeOfStart":"Tue Dec 03 19:41:21 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":4,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 1","stats":"Requests(BullCows): 4 start at:Tue Dec 03 19:41:21 YEKT 2019\n","task":[6,2,5,3],"timeOfStart":"Tue Dec 03 19:41:21 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":0,"is_started":false,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 0 start at:null\n","task":[5,4,1,7],"type":"BullsCows"}
+t
+{"gameRequests":1,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 1 start at:Tue Dec 03 19:49:35 YEKT 2019\n","task":[5,4,1,7],"timeOfStart":"Tue Dec 03 19:49:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":9,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 9 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":10,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 3","stats":"Requests(BullCows): 10 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":0,"is_started":false,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 0 start at:null\n","task":[3,5,9,4],"type":"BullsCows"}
+t
+{"gameRequests":1,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 1","stats":"Requests(BullCows): 1 start at:Tue Dec 03 19:59:04 YEKT 2019\n","task":[3,5,9,4],"timeOfStart":"Tue Dec 03 19:59:04 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":4,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 4 start at:Tue Dec 03 19:41:21 YEKT 2019\n","task":[6,2,5,3],"timeOfStart":"Tue Dec 03 19:41:21 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":5,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 1","stats":"Requests(BullCows): 5 start at:Tue Dec 03 19:41:21 YEKT 2019\n","task":[6,2,5,3],"timeOfStart":"Tue Dec 03 19:41:21 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":6,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 1","stats":"Requests(BullCows): 6 start at:Tue Dec 03 19:41:21 YEKT 2019\n","task":[6,2,5,3],"timeOfStart":"Tue Dec 03 19:41:21 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":0,"is_started":false,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 0 start at:null\n","task":[8,7,3,5],"type":"BullsCows"}
+t
+{"gameRequests":1,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 0","stats":"Requests(BullCows): 1 start at:Tue Dec 03 20:00:13 YEKT 2019\n","task":[8,7,3,5],"timeOfStart":"Tue Dec 03 20:00:13 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":2,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 1 Коров: 0","stats":"Requests(BullCows): 2 start at:Tue Dec 03 20:00:13 YEKT 2019\n","task":[8,7,3,5],"timeOfStart":"Tue Dec 03 20:00:13 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":2,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 2 start at:Tue Dec 03 19:49:35 YEKT 2019\n","task":[5,4,1,7],"timeOfStart":"Tue Dec 03 19:49:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":3,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 3 start at:Tue Dec 03 19:49:35 YEKT 2019\n","task":[5,4,1,7],"timeOfStart":"Tue Dec 03 19:49:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":10,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 10 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":10,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 10 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":11,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 11 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":12,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 12 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":13,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 3","stats":"Requests(BullCows): 13 start at:Tue Dec 03 18:35:23 YEKT 2019\n","task":[2,8,4,3],"timeOfStart":"Tue Dec 03 18:35:23 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":0,"is_started":false,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 0 start at:null\n","task":[9,3,1,7],"type":"BullsCows"}
+t
+{"gameRequests":1,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 1 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":2,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 2 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":3,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 3 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":0,"is_started":false,"name":"Математика","quest":"16*19","res":304,"stats":"Requests(MathGame): 0 start at:null\n","type":"MathGame"}
+н
+{"gameRequests":1,"is_started":true,"message":"Нет, правильный ответ 304","name":"Математика","out":"Нет, правильный ответ 304","quest":"0-44","res":-44,"stats":"Requests(MathGame): 1 start at:Tue Dec 03 20:10:23 YEKT 2019\n","timeOfStart":"Tue Dec 03 20:10:23 YEKT 2019","type":"MathGame"}
+н
+{"gameRequests":4,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 4 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":5,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 5 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":6,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 6 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":7,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 7 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":8,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 8 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":9,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 9 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":10,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 10 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":11,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 11 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":12,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 12 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":13,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 13 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":14,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 14 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":15,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 15 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":16,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 16 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":17,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 17 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":18,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 18 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":19,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 19 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":20,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 20 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":21,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 21 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":22,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 22 start at:Tue Dec 03 20:09:35 YEKT 2019\n","task":[9,3,1,7],"timeOfStart":"Tue Dec 03 20:09:35 YEKT 2019","type":"BullsCows"}
+t
+{"gameRequests":0,"is_started":false,"name":"Математика","quest":"9+9*44-44*44","res":-1531,"stats":"Requests(MathGame): 0 start at:null\n","type":"MathGame"}
+t
+{"gameRequests":1,"is_started":true,"message":"Нет, правильный ответ -1531","name":"Математика","out":"Нет, правильный ответ -1531","quest":"882/21","res":42,"stats":"Requests(MathGame): 1 start at:Tue Dec 03 20:36:21 YEKT 2019\n","timeOfStart":"Tue Dec 03 20:36:21 YEKT 2019","type":"MathGame"}
+t
+{"gameRequests":2,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 2 start at:Tue Dec 03 20:36:21 YEKT 2019\n","task":[4,6,9,2],"timeOfStart":"Tue Dec 03 20:36:21 YEKT 2019","type":"MathGame"}
+t
+{"gameRequests":3,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 3 start at:Tue Dec 03 20:36:21 YEKT 2019\n","task":[4,6,9,2],"timeOfStart":"Tue Dec 03 20:36:21 YEKT 2019","type":"MathGame"}
+t
+{"gameRequests":0,"is_started":false,"name":"Математика","quest":"41+7","res":48,"stats":"Requests(MathGame): 0 start at:null\n","type":"MathGame"}
+к
+{"gameRequests":1,"is_started":true,"message":"Нет, правильный ответ 48","name":"Математика","out":"Нет, правильный ответ 48","quest":"2*32","res":64,"stats":"Requests(MathGame): 1 start at:Tue Dec 10 22:03:02 YEKT 2019\n","timeOfStart":"Tue Dec 10 22:03:02 YEKT 2019","type":"MathGame"}
+к
+{"gameRequests":4,"is_started":true,"message":"Введите корректное значение, число из 4 различных цифр","name":"Быки и коровы","quest":"Быков: 0 Коров: 0","stats":"Requests(BullCows): 4 start at:Tue Dec 03 20:36:21 YEKT 2019\n","task":[4,6,9,2],"timeOfStart":"Tue Dec 03 20:36:21 YEKT 2019","type":"MathGame"}
+t
+{"gameRequests":5,"is_started":true,"message":"~~~~~~~~~~~~~~~~~~~","name":"Быки и коровы","quest":"Быков: 0 Коров: 2","stats":"Requests(BullCows): 5 start at:Tue Dec 03 20:36:21 YEKT 2019\n","task":[4,6,9,2],"timeOfStart":"Tue Dec 03 20:36:21 YEKT 2019","type":"MathGame"}
+t
